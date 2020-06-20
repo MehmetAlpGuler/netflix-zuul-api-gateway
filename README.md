@@ -35,3 +35,4 @@ If a spring Bean extends ZuulFilter then it will be auto registered as a filter.
 - Serving static content
 - Dynamic routing based on some conditions (A/B testing)
 
+![](images/zuul-filter.png)
